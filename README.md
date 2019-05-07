@@ -3,7 +3,7 @@
 
 A User and to multiple user Movie Recommendation web application using Machine Learning matrix factorizations filtering algorithm.
 
-# ~~The Technologies Used~~
+# Used features 
 
 Html , Css , JavaScript , Bootstrap , Django , python 3.6
 
@@ -15,7 +15,7 @@ SQLite
 
 pip3
 
-# ~Setup to run~
+# Setup to run
 
 install or update the above technologies
 
