@@ -5,15 +5,15 @@ A User and to multiple user Movie Recommendation web application using Machine L
 
 # Used features 
 
-Html , Css , JavaScript , Bootstrap , Django , python 3.6
+Html , Css , JavaScript , Bootstrap , Django , python 3.6 , virtualenv , pip3
 
 # Libraries used
-Numpy , Pandas , Scipy , virtualenv
+
+Numpy , Pandas , Scipy 
 
 # Database
-SQLite
 
-pip3
+SQLite
 
 # Setup to run
 
