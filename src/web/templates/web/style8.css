@@ -1,0 +1,58 @@
+body{
+    background-image: linear-gradient(to right,red, yellow);
+    margin-top: 150px;
+}
+
+.register-left
+{
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+.register-left p{
+    padding: 20px 20px 0;
+}
+
+.register-left .btn-primary
+{
+    border-radius: 1.5rem;
+    border: none;
+    width: 120px;
+    background: #f8f8f8;
+    font-weight: 600;
+    color: #555;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.register-left .btn-primary:hover{
+    background: #000;
+}
+
+
+
+
+
+.register-form
+{
+    padding: 30px;
+}
+
+.register-right .btn-primary
+{
+    float: right;
+    border-radius: 1.5rem;
+    border: none;
+    width: 120px;
+    background: #f8f8f8;
+    font-weight: 600;
+    color: red;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.register-right .btn-primary:hover
+{
+    background: #ff5722;
+}
