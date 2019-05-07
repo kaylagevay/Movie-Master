@@ -1,0 +1,6 @@
+Movie Master is a web app that will suggest old and current movies to users. 
+To access Movie Master’s webpage you must enter a valid username and password or first time users must create an account. 
+Once the account is created, users will be asked to participate in a questionnaire. 
+This questionnaire is a list of 150 movies, where users are prompted to rate the movies on a scale of 1-5.
+This questionnaire will be used for machine learning decision tree algorithm, in order to suggest movies to the user.
+
